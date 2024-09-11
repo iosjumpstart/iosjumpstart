@@ -1,1 +1,1 @@
-[![Youtube]](https://www.youtube.com/@ios_jumpstart)
+[Youtube](https://www.youtube.com/@ios_jumpstart)
